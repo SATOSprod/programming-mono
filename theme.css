@@ -279,7 +279,7 @@ Programming Mono — тема для Obsidian
 .theme-light .workspace-tab-header-container,
 .theme-light .status-bar,
 .theme-light .side-dock-ribbon {
-  border-radius: 0 !important;
+  border-radius: 0;
 }
 
 .theme-dark .prompt,
@@ -310,7 +310,7 @@ Programming Mono — тема для Obsidian
 .theme-light .nav-folder-title,
 .theme-light .workspace-tab-header,
 .theme-light button:not(.mod-cta):not(.mod-warning) {
-  border-radius: 0 !important;
+  border-radius: 0;
 }
 
 /* ── Кнопки ─────────────────────────────────────────────────────── */
